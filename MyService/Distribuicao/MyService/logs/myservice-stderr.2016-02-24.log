@@ -1,0 +1,37 @@
+
+2016-02-24 12:30:12 Commons Daemon procrun stderr initialized
+java.lang.NoClassDefFoundError: MyService
+Caused by: java.lang.ClassNotFoundException: MyService
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+Exception in thread "main" 
+2016-02-24 14:21:54 Commons Daemon procrun stderr initialized
+java.lang.NoClassDefFoundError: MyService
+Caused by: java.lang.ClassNotFoundException: MyService
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+Exception in thread "main" O serviço especificado já existe.
+Failed to install service
+2016-02-24 14:43:39 Commons Daemon procrun stderr initialized
+java.lang.NoClassDefFoundError: MyService
+Caused by: java.lang.ClassNotFoundException: MyService
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+Exception in thread "main" O serviço especificado já existe.
+Failed to install serviceO serviço especificado já existe.
+Failed to install service
+2016-02-24 14:48:51 Commons Daemon procrun stderr initialized
+java.lang.NoClassDefFoundError: teste/MyService
+Caused by: java.lang.ClassNotFoundException: teste.MyService
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+Exception in thread "main" 
+2016-02-24 15:40:53 Commons Daemon procrun stderr initialized

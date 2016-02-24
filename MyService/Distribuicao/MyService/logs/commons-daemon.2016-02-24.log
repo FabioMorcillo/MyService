@@ -1,0 +1,65 @@
+[2016-02-24 12:29:12] [info]  [11948] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 12:29:12] [info]  [11948] Service MyService name 
+[2016-02-24 12:29:12] [info]  [11948] Service 'MyService' installed
+[2016-02-24 12:29:12] [info]  [11948] Commons Daemon procrun finished
+[2016-02-24 12:30:11] [info]  [11892] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 12:30:12] [info]  [11892] Running 'MyService' Service...
+[2016-02-24 12:30:12] [info]  [ 4260] Starting service...
+[2016-02-24 12:30:12] [error] [ 8684] FindClass MyService failed
+[2016-02-24 12:30:13] [error] [ 4260] Failed to start Java
+[2016-02-24 12:30:13] [error] [ 4260] ServiceStart returned 4
+[2016-02-24 12:30:13] [info]  [11892] Run service finished.
+[2016-02-24 12:30:13] [info]  [11892] Commons Daemon procrun finished
+[2016-02-24 14:21:54] [info]  [10536] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 14:21:54] [info]  [10536] Running 'MyService' Service...
+[2016-02-24 14:21:54] [info]  [10280] Starting service...
+[2016-02-24 14:21:54] [error] [10568] FindClass MyService failed
+[2016-02-24 14:21:54] [error] [10280] Failed to start Java
+[2016-02-24 14:21:54] [error] [10280] ServiceStart returned 4
+[2016-02-24 14:21:54] [info]  [10536] Run service finished.
+[2016-02-24 14:21:54] [info]  [10536] Commons Daemon procrun finished
+[2016-02-24 14:43:27] [info]  [ 6716] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 14:43:27] [info]  [ 6716] Service MyService name 
+[2016-02-24 14:43:27] [error] [ 6716] O serviço especificado já existe.
+[2016-02-24 14:43:28] [error] [ 6716] Failed installing 'MyService' service
+[2016-02-24 14:43:28] [error] [ 6716] O serviço especificado já existe.
+[2016-02-24 14:43:28] [error] [ 6716] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2016-02-24 14:43:28] [error] [ 6716] O serviço especificado já existe.
+[2016-02-24 14:43:39] [info]  [10540] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 14:43:39] [info]  [10540] Running 'MyService' Service...
+[2016-02-24 14:43:39] [info]  [  348] Starting service...
+[2016-02-24 14:43:39] [error] [ 9556] FindClass MyService failed
+[2016-02-24 14:43:40] [error] [  348] Failed to start Java
+[2016-02-24 14:43:40] [error] [  348] ServiceStart returned 4
+[2016-02-24 14:43:40] [info]  [10540] Run service finished.
+[2016-02-24 14:43:40] [info]  [10540] Commons Daemon procrun finished
+[2016-02-24 14:46:12] [info]  [ 2872] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 14:46:12] [info]  [ 2872] Service MyService name 
+[2016-02-24 14:46:12] [error] [ 2872] O serviço especificado já existe.
+[2016-02-24 14:46:12] [error] [ 2872] Failed installing 'MyService' service
+[2016-02-24 14:46:12] [error] [ 2872] O serviço especificado já existe.
+[2016-02-24 14:46:12] [error] [ 2872] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2016-02-24 14:46:12] [error] [ 2872] O serviço especificado já existe.
+[2016-02-24 14:48:10] [info]  [ 6180] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 14:48:10] [info]  [ 6180] Service MyService name 
+[2016-02-24 14:48:10] [error] [ 6180] O serviço especificado já existe.
+[2016-02-24 14:48:10] [error] [ 6180] Failed installing 'MyService' service
+[2016-02-24 14:48:10] [error] [ 6180] O serviço especificado já existe.
+[2016-02-24 14:48:10] [error] [ 6180] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2016-02-24 14:48:10] [error] [ 6180] O serviço especificado já existe.
+[2016-02-24 14:48:20] [info]  [ 7696] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 14:48:20] [info]  [ 7696] Service MyService name 
+[2016-02-24 14:48:20] [info]  [ 7696] Service 'MyService' installed
+[2016-02-24 14:48:20] [info]  [ 7696] Commons Daemon procrun finished
+[2016-02-24 14:48:51] [info]  [ 4596] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 14:48:51] [info]  [ 4596] Running 'MyService' Service...
+[2016-02-24 14:48:51] [info]  [10556] Starting service...
+[2016-02-24 14:48:51] [error] [  608] FindClass teste/MyService failed
+[2016-02-24 14:48:51] [error] [10556] Failed to start Java
+[2016-02-24 14:48:51] [error] [10556] ServiceStart returned 4
+[2016-02-24 14:48:51] [info]  [ 4596] Run service finished.
+[2016-02-24 14:48:51] [info]  [ 4596] Commons Daemon procrun finished
+[2016-02-24 15:40:53] [info]  [ 5536] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2016-02-24 15:40:53] [info]  [ 5536] Running 'MyService' Service...
+[2016-02-24 15:40:53] [info]  [ 5324] Starting service...
+[2016-02-24 15:40:54] [info]  [ 5324] Service started in 1115 ms.
